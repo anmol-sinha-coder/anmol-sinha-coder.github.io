@@ -1,6 +1,6 @@
 ## Hi there 👋 :grin:
 
-![Core Domains :](https://github.com/anmol-sinha-coder/anmol-sinha-coder.github.io/self-Anmol.png)
+![Core Domains :](self-Anmol.png)
 C/C++ | Java | Python | JavaScript | Scala | Groovy | DevOps(CI/CD): Jenkins, Docker, Kubernetes, Ansible | Big Data: Hadoop, Spark, Hive, Kafka | AI (ML/DL): PyTorch, TensorFlow, NLP, LangChain (RAG/LLM) | AWS Cloud
 <br/>
 <p>
