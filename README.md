@@ -3,12 +3,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>👋Anmol Sinha | Portfolio📄</title>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <!--link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet"-->
     <style>
         body {
             font-family: 'Roboto', sans-serif;
             margin: 0;
             padding: 0;
+             background-image: url("https://miro.medium.com/v2/resize:fit:1280/1*czcdGNhz6jvyxSRvmuxlSQ.gif"), url("https://i.pinimg.com/originals/50/cd/3b/50cd3bed5c4763ec64f5082010e9b09e.gif");
             background-color: #f4f4f4;
             color: #333;
         }
@@ -101,7 +102,7 @@
             <img src="self-Anmol.png" alt="Anmol Sinha">
         </div>
         <h1>Anmol Sinha</h1>
-        <p>Big Data Engineer | Data Analyst | Cloud & DevOps Specialist</p>
+        <p> C/C++ | Java | Python | JavaScript | Scala | Groovy | DevOps(CI/CD): Jenkins, Docker, Kubernetes, Ansible | Big Data: Hadoop, Spark, Hive, Kafka | AI (ML/DL): PyTorch, TensorFlow, NLP, LangChain (RAG/LLM) </p>
     </header>
     <nav>
         <a href="#about">About</a>
@@ -113,19 +114,21 @@
     <div class="container">
         <section id="about" class="section">
             <h2>About Me</h2>
-            <p>I am a Big Data Engineer with expertise in tools like Hive, HUDI, Hadoop, Spark, and Kafka. With extensive experience in AWS cloud and DevOps deployments, I specialize in creating scalable data pipelines and optimizing workflows. Additionally, I have worked as a Data Analyst, delivering actionable insights through advanced data processing and visualization techniques.</p>
+            <p>I am a Big Data Engineer with expertise in tools like Hadoop, Hive, HUDI, Hadoop, Spark, Iceberg and Kafka. With extensive experience in AWS cloud and DevOps deployments, I specialize in creating scalable data pipelines and optimizing workflows. Additionally, I have worked as a Data Analyst, delivering actionable insights through advanced data processing and visualization techniques. I have extensive experience in designing scalable solutions and highly impactful applications, optimizing and automating workflow and developing data pipelines. I am proficient in the use of modern technologies and passionate about solving complex problems with data-driven approaches.</p>
         </section>
         <section id="skills" class="section">
             <h2>Skills</h2>
             <div class="skills">
                 <h3>Big Data Engineering</h3>
+▪️> [𝗕𝗶𝗴 𝗗𝗮𝘁𝗮]: Extensive experience of data warehousing with Apache Hadoop, Spark, Hive, HUDI, Kafka, IceBerg, Flink etc. for designing efficient ETL Migration Pipelines, and, Real-Time Data Streaming Design to process large-scale datasets.
                 <p>
-                    <img src="https://www.databricks.com/sites/default/files/2023-03/largest-open-source-apache-spark.png" width="50" height="50">
-                    <img src="https://hudi.apache.org/assets/images/hudi-lake-overview-e39f80337517a0a1999d8eb5cd0ac965.png" width="200" height="50">
+                    <img src="https://www.databricks.com/sites/default/files/2023-03/largest-open-source-apache-spark.png" width="300" height="300">
+                    <img src="https://hudi.apache.org/assets/images/hudi-lake-overview-e39f80337517a0a1999d8eb5cd0ac965.png" width="300" height="200">
                 </p>
                 <h3>Deep Learning / Computer Vision / Audio Recognition</h3>
+ ▪️> [𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 / 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴]: Proficient in implementing AI/ML systems, leveraging NLP, LLMs, RAG, Deep Learning, and Neural Network architectures to deliver impactful insights, including training & testing.
                 <p>
-                    <img src="https://miro.medium.com/max/700/1*Z4L6D1RiQauGmB3TGK_wJg.gif" width="500" height="500">
+                    <img src="https://miro.medium.com/max/700/1*Z4L6D1RiQauGmB3TGK_wJg.gif" width="100" height="100">
                     <img src="https://www.kukuxiaai.com/images/tensorflow.gif" width="100" height="150">
                     <img src="https://keras.io/img/logo.png" width="100" height="25">
                     <img src="https://i.imgur.com/1t7STdM.gif" width="100" height="100">
@@ -133,6 +136,7 @@
                     <img src="https://librosa.org/images/librosa_logo_text.png" width="125" height="75">
                 </p>
                 <h3>DevOps</h3>
+ ▪️> [𝗗𝗲𝘃𝗢𝗽𝘀 𝗗𝗲𝘀𝗶𝗴𝗻]: Skilled in CI/CD pipeline development using Jenkins, Docker, and Kubernetes, Ansible, Apache Airflow for streamlined deployments. With process automation, strong focus on automating assembly pipelines to enhance data processing efficiency and operational performance, used for data modeling with the ability to design conceptual data flows that support business objectives
                 <p>
                     <img src="https://miro.medium.com/max/676/0*OTDBbd-zbG-P-41o.png" width="25" height="25">
                     <img src="https://www.redarris.com/assets/img/blog/docker-kubernetes.png" width="100" height="25">
@@ -143,6 +147,7 @@
                     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/959px-OpenShift-LogoType.svg.png" height="100" width="100">
                 </p>
                 <h3>Cloud Computing</h3>
+ ▪️> [𝗖𝗹𝗼𝘂𝗱 𝗖𝗼𝗺𝗽𝘂𝘁𝗶𝗻𝗴]: Skillful in datalakes management using AWS Cloud tools and advanced (PaaS/SaaS) technologies such as CloudFormation, Lambda, StepFunction, Elastic MapReduce (EMR), Simple Queue Service (SQS), Glue, Athena, Database Migration Service (DMS), RDS (Relational Database Service), Kinesis, Firehose etc.
                 <p>
                     <img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" width="125" height="75">
                     <img src="https://static.dribbble.com/users/57858/screenshots/2292590/jeshie_dribbble_cloud.gif" width="100" height="100">
@@ -151,6 +156,7 @@
                     <img src="https://qbd.eu/wp-content/uploads/azure-logo.png" width="200" height="100">
                 </p>
                 <h3>Languages/Libraries/Frameworks</h3>
+▪️> [𝗙𝘂𝗹𝗹𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁]: Expertise in building robust full-stack applications using the MERN (MogoDB, ExpressJS, NodeJS, ReactJS) stack in Javascript. Furthermore, I have worked with Flask for creating and hosting applications using Python
                 <p>
                     <img src="https://servreality.com/wp-content/uploads/2020/07/C.gif" height="100" width="200">
                     <img src="https://miro.medium.com/max/250/1*A3EN6RoI9LIVpL7EhIGHzQ.gif" height="100" width="200">
