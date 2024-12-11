@@ -125,8 +125,8 @@
                 </p>
                 <h3>Deep Learning / Computer Vision / Audio Recognition</h3>
                 <p>
-                    <img src="https://miro.medium.com/max/700/1*Z4L6D1RiQauGmB3TGK_wJg.gif" width="50" height="50">
-                    <img src="https://www.kukuxiaai.com/images/tensorflow.gif" width="200" height="50">
+                    <img src="https://miro.medium.com/max/700/1*Z4L6D1RiQauGmB3TGK_wJg.gif" width="500" height="500">
+                    <img src="https://www.kukuxiaai.com/images/tensorflow.gif" width="100" height="150">
                     <img src="https://keras.io/img/logo.png" width="100" height="25">
                     <img src="https://i.imgur.com/1t7STdM.gif" width="100" height="100">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1100px-OpenCV_Logo_with_text_svg_version.svg.png" width="100" height="100">
@@ -144,7 +144,7 @@
                 </p>
                 <h3>Cloud Computing</h3>
                 <p>
-                    <img src="https://thumbs.gfycat.com/PoliticalMindlessBanteng-small.gif" width="125" height="75">
+                    <img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" width="125" height="75">
                     <img src="https://static.dribbble.com/users/57858/screenshots/2292590/jeshie_dribbble_cloud.gif" width="100" height="100">
                     <img src="https://nicovmc.files.wordpress.com/2019/07/terraform_primarylogo_fullcolor.png" width="150" height="75">
                     <img src="https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/Uploads/openstack-vert.jpg" width="100" height="100">
@@ -155,7 +155,7 @@
                     <img src="https://servreality.com/wp-content/uploads/2020/07/C.gif" height="100" width="200">
                     <img src="https://miro.medium.com/max/250/1*A3EN6RoI9LIVpL7EhIGHzQ.gif" height="100" width="200">
                     <img src="https://davidwalsh.name/demo/concept.gif" height="100" width="200">
-                    <img src="https://images1.programmersought.com/14/08/08b90efcdd08a3d559b21c825e6c0efe.JPEG" height="100" width="200">
+                    <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/110318658/original/39498cdac2d8e6e1408880a1ec3b2f9374964f21/write-sql-query-for-mysql-sql-server-oracle-postgre-sql.jpg" height="100" width="200">
                     <img src="https://nexax.in/wp-content/uploads/2020/11/java-1.gif" height="100" width="200">
                     <img src="https://user-images.githubusercontent.com/54990023/130337112-8a5c765f-6c0d-45f5-8bfb-ebf0aeff2de9.png" height="100" width="200">
                     <img src="https://workingnation.com/wp-content/uploads/2018/05/R_logo.svg_.png" height="100" width="200">
