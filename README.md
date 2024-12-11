@@ -29,7 +29,7 @@
             border: 3px solid white;
             position: absolute;
             top: 1.5rem;
-            left: 50%;
+            left: 5%;
             transform: translateX(-50%);
             background: white;
             overflow: hidden;
