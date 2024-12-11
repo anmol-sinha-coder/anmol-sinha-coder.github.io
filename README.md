@@ -1,10 +1,10 @@
 ## Hi there 👋 :grin:
 
-<img src="https://github.com/anmol-sinha-coder/anmol-sinha-coder.github.io/self-Anmol.png" width=25 height=50>
+![Core Domains :](https://github.com/anmol-sinha-coder/anmol-sinha-coder.github.io/self-Anmol.png)
 C/C++ | Java | Python | JavaScript | Scala | Groovy | DevOps(CI/CD): Jenkins, Docker, Kubernetes, Ansible | Big Data: Hadoop, Spark, Hive, Kafka | AI (ML/DL): PyTorch, TensorFlow, NLP, LangChain (RAG/LLM) | AWS Cloud
 <br/>
 <p>
-<img src="https://images.template.net/100603/small-linkedin-icon-clipart-q5ttq.jpg" width=10 height=10>
+<img src="https://images.template.net/100603/small-linkedin-icon-clipart-q5ttq.jpg" width=100 height=100>
 <a href="https://www.linkedin.com/in/anmol-sinha-2465852b9/"> LinkedIn </a>
 </p>
 
@@ -13,14 +13,14 @@ C/C++ | Java | Python | JavaScript | Scala | Groovy | DevOps(CI/CD): Jenkins, Do
 _______________________________________________________________________________________________________________________________________
 # Big Data Engineering
 <p>
-<img src="https://www.databricks.com/sites/default/files/2023-03/largest-open-source-apache-spark.png" width=25 height=25>
-<img src="https://hudi.apache.org/assets/images/hudi-lake-overview-e39f80337517a0a1999d8eb5cd0ac965.png" width=100 height=25>
+<img src="https://www.databricks.com/sites/default/files/2023-03/largest-open-source-apache-spark.png" width=50 height=50>
+<img src="https://hudi.apache.org/assets/images/hudi-lake-overview-e39f80337517a0a1999d8eb5cd0ac965.png" width=200 height=50>
 </p>
 
 # Deep Learning / Computer Vision / Audio Recognition
 <p>
-<img src="https://miro.medium.com/max/700/1*Z4L6D1RiQauGmB3TGK_wJg.gif" width=25 height=25>
-<img src="https://www.kukuxiaai.com/images/tensorflow.gif" width=100 height=25>
+<img src="https://miro.medium.com/max/700/1*Z4L6D1RiQauGmB3TGK_wJg.gif" width=50 height=50>
+<img src="https://www.kukuxiaai.com/images/tensorflow.gif" width=200 height=50>
 <img src="https://keras.io/img/logo.png" width=100 height=25>
 <br></br>
 <img src="https://i.imgur.com/1t7STdM.gif" width=100 height=100>
