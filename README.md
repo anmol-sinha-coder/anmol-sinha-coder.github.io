@@ -14,7 +14,8 @@
             color: #333;
         }
         header {
-            background: #0073e6;
+            background-image: url("https://media.istockphoto.com/id/1470617656/vector/ai-artificial-intelligence-chipset-on-circuit-board-in-futuristic-concept-suitable-for.jpg");
+            background-color: #0073e6;
             color: white;
             padding: 1.5rem 0;
             text-align: center;
