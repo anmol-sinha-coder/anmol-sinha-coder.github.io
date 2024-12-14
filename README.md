@@ -28,6 +28,7 @@
             margin: 0;
             transition: 0.5s;
             font-family: Arial, Helvetica, sans-serif;
+            text-shadow: -1px 0 yellow, 0 1px yellow, 1px 0 yellow, 0 -1px yellow;
         }
         .heads:hover {
             text-shadow: 0 1px 0 #ccc, 0 2px 0 #ccc,
