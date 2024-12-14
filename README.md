@@ -25,9 +25,10 @@
             text-align: center;
             color: Aquamarine;
             font-size: 6em;
+            font-weight: bold;
             margin: 0;
             transition: 0.5s;
-            font-family: Arial, Helvetica, sans-serif;
+            font-family: 'Luminari', fantasy;
             text-shadow: -1px 0 yellow, 0 1px yellow, 1px 0 yellow, 0 -1px yellow;
         }
         .heads:hover {
