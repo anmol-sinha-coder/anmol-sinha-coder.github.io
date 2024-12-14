@@ -112,13 +112,11 @@
     </style>
 </head>
 <body>
-    <header>
         <div class="profile-pic">
             <img src="self-Anmol.png" alt="_">
         </div>
-        <font size="6" class="heads">Anmol Sinha</font>
-        <p style="color:Brown;"> &emsp;&emsp;&emsp;&emsp;C/C++ | Java | Python | JavaScript | Scala | Groovy | DevOps(CI/CD): Jenkins, Docker, Kubernetes, Ansible | Big Data: Hadoop, Spark, Hive, Kafka | AI (ML/DL): PyTorch, TensorFlow, NLP, LangChain (RAG/LLM) </p>
-    </header>
+        <font size="4" class="heads"> Anmol Sinha </font>
+        <p style="color:yellow;"> &emsp;&emsp;&emsp;&emsp;C/C++ | Java | Python | JavaScript | Scala | Groovy | DevOps(CI/CD): Jenkins, Docker, Kubernetes, Ansible | Big Data: Hadoop, Spark, Hive, Kafka | AI (ML/DL): PyTorch, TensorFlow, NLP, LangChain (RAG/LLM) </p>
     <nav>
         <a href="#about">About</a>
         <a href="#skills">Skills</a>
