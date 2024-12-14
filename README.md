@@ -1,8 +1,7 @@
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> &#x1F44B; &#x1F3FC; Anmol Sinha | Portfolio &#x1F4C3;</title>
+    <title> &#x1F3FC; Anmol Sinha | Portfolio &#x1F4C3;</title>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <style>
         body {
@@ -117,8 +116,8 @@
         <div class="profile-pic">
             <img src="self-Anmol.png" alt="_">
         </div>
-        <font size="7" class="heads">Anmol Sinha</font>
-        <p> &emsp;&emsp;&emsp;&emsp;C/C++ | Java | Python | JavaScript | Scala | Groovy | DevOps(CI/CD): Jenkins, Docker, Kubernetes, Ansible | Big Data: Hadoop, Spark, Hive, Kafka | AI (ML/DL): PyTorch, TensorFlow, NLP, LangChain (RAG/LLM) </p>
+        <font size="6" class="heads">Anmol Sinha</font>
+        <p style="color:Brown;"> &emsp;&emsp;&emsp;&emsp;C/C++ | Java | Python | JavaScript | Scala | Groovy | DevOps(CI/CD): Jenkins, Docker, Kubernetes, Ansible | Big Data: Hadoop, Spark, Hive, Kafka | AI (ML/DL): PyTorch, TensorFlow, NLP, LangChain (RAG/LLM) </p>
     </header>
     <nav>
         <a href="#about">About</a>
