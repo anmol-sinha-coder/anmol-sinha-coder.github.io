@@ -117,7 +117,7 @@
             <img src="self-Anmol.png" alt="_">
         </div>
         <font class="heads"> Anmol Sinha </font>
-        <p style="color:yellow; background-color:blue"> &emsp;&emsp;&emsp;&emsp;C/C++ | Java | Python | JavaScript | Scala | Groovy | DevOps(CI/CD): Jenkins, Docker, Kubernetes, Ansible | Big Data: Hadoop, Spark, Hive, Kafka | AI (ML/DL): PyTorch, TensorFlow, NLP, LangChain (RAG/LLM) </p>
+        <p style="color:yellow; background-color:blue; background-image: url('https://miro.medium.com/v2/resize:fit:1358/1*uzVtquVT0jGfbNAf7Qc1UQ.gif');"> &emsp;&emsp;&emsp;&emsp;C/C++ | Java | Python | JavaScript | Scala | Groovy | DevOps(CI/CD): Jenkins, Docker, Kubernetes, Ansible | Big Data: Hadoop, Spark, Hive, Kafka | AI (ML/DL): PyTorch, TensorFlow, NLP, LangChain (RAG/LLM) </p>
     </header>
     <nav>
         <a href="#about">About</a>
