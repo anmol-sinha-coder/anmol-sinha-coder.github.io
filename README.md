@@ -28,7 +28,7 @@
             font-weight: bold;
             margin: 0;
             transition: 0.5s;
-            font-family: 'Luminari', fantasy;
+            font-family: 'Lucida Handwriting', cursive;
             text-shadow: -1px 0 yellow, 0 1px yellow, 1px 0 yellow, 0 -1px yellow;
         }
         .heads:hover {
