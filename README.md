@@ -102,7 +102,7 @@
         <div class="profile-pic">
             <img src="self-Anmol.png" alt="_">
         </div>
-        <h1 color="Azure">Anmol Sinha</h1>
+        <h1 style="color:Cyan;">Anmol Sinha</h1>
         <p> &emsp;&emsp;&emsp;&emsp;C/C++ | Java | Python | JavaScript | Scala | Groovy | DevOps(CI/CD): Jenkins, Docker, Kubernetes, Ansible | Big Data: Hadoop, Spark, Hive, Kafka | AI (ML/DL): PyTorch, TensorFlow, NLP, LangChain (RAG/LLM) </p>
     </header>
     <nav>
