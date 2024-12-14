@@ -21,9 +21,25 @@
             text-align: center;
             position: relative;
         }
-        header h1 {
+        h1 {
+            position: relative;
+            text-align: center;
+            color: Turquoise ;
+            font-size: 8em;
             margin: 0;
+            transition: 0.5s;
+            font-family: Arial, Helvetica, sans-serif;
         }
+        h1:hover {
+            text-shadow: 0 1px 0 #ccc, 0 2px 0 #ccc,
+                0 3px 0 #ccc, 0 4px 0 #ccc,
+                0 5px 0 #ccc, 0 6px 0 #ccc,
+                0 7px 0 #ccc, 0 8px 0 #ccc,
+                0 9px 0 #ccc, 0 10px 0 #ccc,
+                0 11px 0 #ccc, 0 12px 0 #ccc,
+                0 20px 30px rgba(0, 0, 0, 0.5);
+        }
+        
         .profile-pic {
             width: 120px;
             height: 120px;
@@ -102,7 +118,7 @@
         <div class="profile-pic">
             <img src="self-Anmol.png" alt="_">
         </div>
-        <h1 style="color:Cyan;">Anmol Sinha</h1>
+        <h1>Anmol Sinha</h1>
         <p> &emsp;&emsp;&emsp;&emsp;C/C++ | Java | Python | JavaScript | Scala | Groovy | DevOps(CI/CD): Jenkins, Docker, Kubernetes, Ansible | Big Data: Hadoop, Spark, Hive, Kafka | AI (ML/DL): PyTorch, TensorFlow, NLP, LangChain (RAG/LLM) </p>
     </header>
     <nav>
