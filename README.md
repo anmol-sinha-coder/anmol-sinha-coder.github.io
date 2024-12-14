@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>👋Anmol Sinha | Portfolio📄</title>
-    <!--link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet"-->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <style>
         body {
             font-family: 'Roboto', sans-serif;
@@ -24,7 +24,7 @@
         h1 {
             position: relative;
             text-align: center;
-            color: Turquoise ;
+            color: Aquamarine;
             font-size: 8em;
             margin: 0;
             transition: 0.5s;
@@ -39,7 +39,6 @@
                 0 11px 0 #ccc, 0 12px 0 #ccc,
                 0 20px 30px rgba(0, 0, 0, 0.5);
         }
-        
         .profile-pic {
             width: 120px;
             height: 120px;
