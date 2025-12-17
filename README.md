@@ -192,10 +192,10 @@
         <section id="experience" class="section">
             <h2>Work Experience</h2>
             <ul>
-                <li><strong> Spark Data Engineer</strong> - VHL Technologies (Apr 2024 - Present)<br> 
+                <li><strong> Spark Data Engineer</strong> - VHL Technologies (May 2025 - Present)<br> 
                     Working for "Citizens Bank (U.S)" on Enterprise Data Frameworks for our Process Metadata Engine - Data Control Centre to unify multiple ETL process requirements like data migration, validation, optimization etc.
                 </li>
-                <li><strong>Senior Data Engineer</strong> - KFin Technologies (Apr 2024 - Present)<br> 
+                <li><strong>Senior Data Engineer</strong> - KFin Technologies (Apr 2024 - May 2025)<br> 
                     Spearheaded data lake architecture and integrated AWS Cloud with Big Data for optimized ETL pipelines.
                 </li>
                 <li><strong>Data Engineer</strong> - KFin Technologies (Jun 2022 - Mar 2024)<br> 
